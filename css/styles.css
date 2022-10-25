@@ -2,6 +2,8 @@ body {
   font-family: "Montserrat-Black";
 }
 
+/* H tags styling */
+
 h1 {
   font-family: "Montserrat-Black";
   font-size: 4.5rem;
@@ -34,6 +36,8 @@ p {
   padding: 3% 15%;
 }
 
+/* Navbar styling */
+
 .navbar {
   padding: 0 0 4.5rem;
 }
@@ -52,6 +56,8 @@ p {
   font-size: 1.2rem;
   font-family: "Montserrat-light";
 }
+
+/* Button and feature styling with the title image*/
 
 .download-button {
   margin: 5% 3% 5% 0;
@@ -81,7 +87,7 @@ p {
   cursor: pointer;
 }
 
-/* Testimonials */
+/* Testimonials styling */
 
 #testimonials {
   text-align: center;
