@@ -63,6 +63,10 @@ p {
   margin: 5% 3% 5% 0;
 }
 
+.dogs-needs {
+  text-align: center;
+}
+
 .title-image {
   width: 60%;
   transform: rotate(25deg);
