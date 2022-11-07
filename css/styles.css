@@ -120,16 +120,12 @@ p {
   padding: 7% 15%;
 }
 
-/* CSS Experiment on the cards */
-.card-title {
-  text-align: center;
-  font-weight: bolder;
-}
-
-.card-text {
+/* Pricing section */
+#pricing {
+  padding: 100px;
   text-align: center;
 }
 
-.btn-primary {
-  align-content: center;
+.pricing-column {
+  padding: 3% 2%;
 }
